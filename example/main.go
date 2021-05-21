@@ -1,7 +1,7 @@
 package main
 
 import (
-	"erc20/erc20"
+	"github.com/liyue201/erc20-go/erc20"
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"

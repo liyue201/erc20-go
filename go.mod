@@ -1,4 +1,4 @@
-module erc20
+module github.com/liyue201/erc20-go
 
 go 1.15
 
